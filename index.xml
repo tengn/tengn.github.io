@@ -10,7 +10,14 @@
     
 	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
+    <item>
+      <title>Today's task</title>
+      <link>https://example.com/blog/todays-task/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/todays-task/</guid>
+      <description>&lt;p&gt;2020/05/25.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://example.com/blog/markdown-syntax/</link>
